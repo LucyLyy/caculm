@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.caculm'
+    namespace 'com.example.caculator'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.caculm"
+        applicationId "com.example.caculator"
         minSdk 24
         targetSdk 33
         versionCode 1

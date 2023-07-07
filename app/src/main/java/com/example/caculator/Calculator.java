@@ -1,4 +1,4 @@
-package com.example.caculm;
+package com.example.caculator;
 
 import android.widget.Toast;
 

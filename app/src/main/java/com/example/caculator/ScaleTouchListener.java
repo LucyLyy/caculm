@@ -1,9 +1,4 @@
-package com.example.caculm;
-
-import android.annotation.SuppressLint;
-import android.view.MotionEvent;
-import android.view.View;
-import android.view.animation.ScaleAnimation;
+package com.example.caculator;
 
 /*public class ScaleTouchListener implements View.OnTouchListener {
     @SuppressLint("ClickableViewAccessibility")

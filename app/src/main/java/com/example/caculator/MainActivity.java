@@ -1,4 +1,4 @@
-package com.example.caculm;
+package com.example.caculator;
 
 import androidx.annotation.Nullable;
 
@@ -10,7 +10,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
-import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     public static final int[] btnIds = {
