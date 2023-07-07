@@ -1,4 +1,4 @@
-package com.example.caculator;
+package com.example.calculator;
 
 public enum CalculatorOperator {
     CLEAR,

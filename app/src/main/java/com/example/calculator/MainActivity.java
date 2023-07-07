@@ -1,4 +1,4 @@
-package com.example.caculator;
+package com.example.calculator;
 
 import androidx.annotation.Nullable;
 

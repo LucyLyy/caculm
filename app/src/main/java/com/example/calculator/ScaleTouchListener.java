@@ -1,4 +1,4 @@
-package com.example.caculator;
+package com.example.calculator;
 
 /*public class ScaleTouchListener implements View.OnTouchListener {
     @SuppressLint("ClickableViewAccessibility")
